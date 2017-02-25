@@ -1,0 +1,30 @@
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+
+
+img {
+	max-width: 80%;
+	margin: auto;
+	display: block;
+}
+
+.contents {
+	font-size: 10vh;
+}
+
+p {
+    font-family: 'Sansita';
+    font-size: 5vh;
+}
+
+a {
+    font-family: 'Sansita';
+    font-size: 5vh;
+}
